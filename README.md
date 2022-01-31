@@ -6,9 +6,9 @@
   
 
  
-[![Anup's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnupBhattaraiNP&show_icons=true&layout=compact&theme=material-palenight)](https://github.com/AnupBhattaraiNP)
+[![Anup's GitHub stats](https://github-readme-stats.vercel.app/api?username=AanupBhattarai&show_icons=true&layout=compact&theme=material-palenight)](https://github.com/AanupBhattarai)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnupBhattaraiNP&layout=compact&theme=material-palenight)](https://github.com/AnupBhattaraiNP)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AanupBhattarai&layout=compact&theme=material-palenight)](https://github.com/AanupBhattarai)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
